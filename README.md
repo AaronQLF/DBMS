@@ -1,6 +1,6 @@
 # Project Title
 
-A simple database management system (DBMS) implemented in Python.
+Database management system (DBMS) implemented in Python.
 
 ## Project Structure
 
